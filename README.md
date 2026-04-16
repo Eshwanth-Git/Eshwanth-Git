@@ -31,10 +31,11 @@ I am passionate about applying data-driven insights, statistical modelling, and 
 
 ### 🎓 Education
 * **MSc Data Science** | University of Surrey (Present)
-  * *Relevant Modules:* Statistical Modelling, Data Mining, Python for Data Science, Big Data Analytics
+  * *Relevant Modules:* Statistical DataScience, DataBase Systems, Cloud Computing, Business Analytics and DV, Machine Learning
+
 * **B.E. Mechanical Engineering** | Anna University (2025)
   * *Honours:* Product Lifecycle Management
-
+  * *CGPA:* 8/10.
 ---
 
 ### 📫 Let's Connect!
