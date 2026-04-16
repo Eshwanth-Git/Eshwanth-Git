@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**Eshwanth-Git/Eshwanth-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PROFESSIONAL SUMMARY
+---
+Analytical and detail-oriented Data Analyst currently pursuing an MSc in Data Science as a merit scholar in the UK. Combines a structured problem-solving background in Mechanical Engineering  with proven hands-on experience building cloud-based data pipelines, designing relational databases, and developing interactive business intelligence dashboards. Passionate about applying data-driven insights to solve real-world business challenges.
 
-Here are some ideas to get you started:
+TECHNICAL SKILLS
+---
+Programming & Databases: Python (Pandas, NumPy), SQL.
+Data Visualization & BI: Looker Studio, MS Excel (advanced functions) 
+Cloud & Infrastructure: Google Cloud Platform (GCP), Cloud Run, Terraform
+Tools & Workflows: Git, GitLab, Jupyter Notebooks
+Core Competencies: Data cleaning, Exploratory Data Analysis (EDA), Statistical analysis , Technical reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+EDUCATION
+---
+University of Surrey | MSc Data Science | Present 
+Anna University | B.E. Mechanical Engineering | 2025
