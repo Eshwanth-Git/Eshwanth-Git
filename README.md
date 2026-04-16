@@ -1,18 +1,43 @@
-## Hi 👋
+# Hi, I'm Durga Eshwanth Sangaraju 👋
 
-PROFESSIONAL SUMMARY
----
-Analytical and detail-oriented Data Analyst currently pursuing an MSc in Data Science as a merit scholar in the UK. Combines a structured problem-solving background in Mechanical Engineering  with proven hands-on experience building cloud-based data pipelines, designing relational databases, and developing interactive business intelligence dashboards. Passionate about applying data-driven insights to solve real-world business challenges.
+### 📊 MSc Data Science Student | Mechanical Engineering Graduate
 
-TECHNICAL SKILLS
----
-Programming & Databases: Python (Pandas, NumPy), SQL.
-Data Visualization & BI: Looker Studio, MS Excel (advanced functions) 
-Cloud & Infrastructure: Google Cloud Platform (GCP), Cloud Run, Terraform
-Tools & Workflows: Git, GitLab, Jupyter Notebooks
-Core Competencies: Data cleaning, Exploratory Data Analysis (EDA), Statistical analysis , Technical reporting.
+I am an analytical and detail-oriented Data Science postgraduate at the University of Surrey, awarded a merit-based scholarship for my master's study in the UK. With a background in Mechanical Engineering, I combine my structured problem-solving skills with practical exposure to production systems and operational efficiency. 
 
-EDUCATION
+I am passionate about applying data-driven insights, statistical modelling, and technical analysis to solve complex, real-world engineering and business challenges.
+
 ---
-University of Surrey | MSc Data Science | Present 
-Anna University | B.E. Mechanical Engineering | 2025
+
+### 🛠️ Technical Skills
+* **Data Analysis:** Exploratory Data Analysis (EDA), Data cleaning, Statistical analysis, Quantitative data analysis
+* **Programming:** Python (Pandas, NumPy, Matplotlib), C (basic)
+* **Tools & Reporting:** MS Excel (advanced functions), Technical reporting, Data visualisation
+* **Process & Engineering:** Root cause analysis, Process analysis, Process optimisation
+
+---
+
+### 💼 Industrial Experience
+
+**Industrial Intern | Apollo Tyres Ltd** (July 2023)
+* Analysed operational inefficiencies in conveyor systems and material handling equipment (MHE).
+* Prepared technical reports identifying mechanical and braking system issues.
+* Collaborated with production teams to understand process optimisation and workflow improvements.
+
+**Intern | Precision Engineering Product** (January 2023)
+* Operated CNC machines using G and M codes for precision component manufacturing.
+* Collaborated with cross-functional teams to improve machining accuracy.
+
+---
+
+### 🎓 Education
+* **MSc Data Science** | University of Surrey (Present)
+  * *Relevant Modules:* Statistical Modelling, Data Mining, Python for Data Science, Big Data Analytics
+* **B.E. Mechanical Engineering** | Anna University (2025)
+  * *Honours:* Product Lifecycle Management
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/eshwanthsangaraju](http://linkedin.com/in/eshwanthsangaraju)
+* **Email:** eshwanthkarthi2580@gmail.com
+* **Location:** London, England-E130FA
